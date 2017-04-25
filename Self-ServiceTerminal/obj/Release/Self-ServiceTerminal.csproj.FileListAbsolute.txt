@@ -1,0 +1,92 @@
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Release\Self-ServiceTerminal.exe.config
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.csproj.ResolveComReference.cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Release\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Release\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Release\MRG.Controls.UI.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Release\MRG.Controls.UI.pdb
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Release\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.csprojResolveAssemblyReference.cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.cardOperation_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.cardPay_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.cashPay_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.charityThanks_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.creditOperation_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.keyBoard_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.loading_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.login_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.lotteryCheck_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.massMediaSubscribe_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.mobileCommunicate_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.moneyTransfer_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.onlineGames_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.operationWebmoney_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.terminalMain_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.Properties.Resources.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.travolta.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.csproj.GenerateResource.Cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\Self-ServiceTerminal.exe.config
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.csproj.ResolveComReference.cache
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\MRG.Controls.UI.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\MRG.Controls.UI.pdb
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.csprojResolveAssemblyReference.cache
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.cardOperation_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.cardPay_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.cashPay_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.charityThanks_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.creditOperation_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.keyBoard_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.loading_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.login_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.lotteryCheck_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.massMediaSubscribe_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.mobileCommunicate_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.moneyTransfer_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.onlineGames_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.operationWebmoney_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.terminalMain_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.Properties.Resources.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.travolta.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.csproj.GenerateResource.Cache
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\Self-ServiceTerminal.exe.config
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Interop.WMPLib.dll
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\AxInterop.WMPLib.dll
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.csproj.ResolveComReference.cache
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.exe
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.pdb
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\Self-ServiceTerminal.exe
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\Self-ServiceTerminal.pdb
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\MRG.Controls.UI.pdb
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\Interop.WMPLib.dll
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\bin\Release\AxInterop.WMPLib.dll
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.csprojResolveAssemblyReference.cache
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.cardOperation_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.cardPay_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.cashPay_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.charityThanks_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.creditOperation_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.keyBoard_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.loading_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.login_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.lotteryCheck_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.massMediaSubscribe_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.mobileCommunicate_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.moneyTransfer_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.onlineGames_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.operationWebmoney_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.terminalMain_form.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.Properties.Resources.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self_ServiceTerminal.travolta.resources
+F:\mrk\42412\КП42412.006102\Self-Sevice Terminal\Self-ServiceTerminal\obj\Release\Self-ServiceTerminal.csproj.GenerateResource.Cache

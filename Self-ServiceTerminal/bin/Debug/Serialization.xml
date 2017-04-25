@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<ArrayOfCardOwner xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CardOwner>
+    <cardNumber>4255000064325688</cardNumber>
+    <cardOwnerName>БРОДСКИЙ ИОСИФ АЛЕКСАНДРОВИЧ</cardOwnerName>
+    <cardCurrentBalance>303000</cardCurrentBalance>
+    <cardValidMonth>8</cardValidMonth>
+    <cardValidYear>18</cardValidYear>
+    <cardPassword>1111</cardPassword>
+    <cardBlocked>false</cardBlocked>
+    <lastMobileNumber>+375(29)5599777</lastMobileNumber>
+    <lastMobileOperator>Velcom</lastMobileOperator>
+    <lastWebmoneyPurse>B548854878885</lastWebmoneyPurse>
+    <lastCreditNumber>452536</lastCreditNumber>
+    <lastBank>БПС-Сбербанк</lastBank>
+    <lastBankBranch>Ф: 42, ул. Суприм 213/3</lastBankBranch>
+  </CardOwner>
+  <CardOwner>
+    <cardNumber>9423886512128645</cardNumber>
+    <cardOwnerName>ДОЛМАТОВ АЛЕКСЕЙ СЕРГЕЕВИЧ</cardOwnerName>
+    <cardCurrentBalance>584500</cardCurrentBalance>
+    <cardValidMonth>3</cardValidMonth>
+    <cardValidYear>17</cardValidYear>
+    <cardPassword>2222</cardPassword>
+    <cardBlocked>false</cardBlocked>
+    <lastMobileNumber>+375(25)4566688</lastMobileNumber>
+    <lastMobileOperator>Life:)</lastMobileOperator>
+    <lastWebmoneyPurse>Z595775998875</lastWebmoneyPurse>
+    <lastCreditNumber>485874</lastCreditNumber>
+    <lastBank>Беларусбанк</lastBank>
+    <lastBankBranch>Ф: 122, ул. Пушкина 43</lastBankBranch>
+  </CardOwner>
+  <CardOwner>
+    <cardNumber>1387653200880043</cardNumber>
+    <cardOwnerName>АРЛОВСКИЙ АНДРЕЙ ВАЛЕРЬЕВИЧ</cardOwnerName>
+    <cardCurrentBalance>495141</cardCurrentBalance>
+    <cardValidMonth>9</cardValidMonth>
+    <cardValidYear>16</cardValidYear>
+    <cardPassword>3333</cardPassword>
+    <cardBlocked>false</cardBlocked>
+    <lastMobileNumber>+375(29)7388258</lastMobileNumber>
+    <lastMobileOperator>MTC</lastMobileOperator>
+  </CardOwner>
+</ArrayOfCardOwner>

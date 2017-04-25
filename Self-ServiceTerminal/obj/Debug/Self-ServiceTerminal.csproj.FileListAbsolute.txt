@@ -1,0 +1,135 @@
+c:\users\artemy\documents\visual studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe.config
+c:\users\artemy\documents\visual studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe
+c:\users\artemy\documents\visual studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.pdb
+c:\users\artemy\documents\visual studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csprojResolveAssemblyReference.cache
+c:\users\artemy\documents\visual studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.Properties.Resources.resources
+c:\users\artemy\documents\visual studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.GenerateResource.Cache
+c:\users\artemy\documents\visual studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.exe
+c:\users\artemy\documents\visual studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Documents\Visual Studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.Terminal.resources
+C:\Users\Artemy\Documents\Visual Studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Documents\Visual Studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Documents\Visual Studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Documents\Visual Studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Documents\Visual Studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.ResolveComReference.cache
+C:\Users\Artemy\Documents\Visual Studio 2015\Projects\Self-ServiceTerminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.cash_In_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe.config
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17\Self-ServiceTerminal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17\Self-ServiceTerminal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.ResolveComReference.cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe.config
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.ResolveComReference.cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csprojResolveAssemblyReference.cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.cash_In_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.Terminal.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.Properties.Resources.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Backup v3.17 — копия\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.GenerateResource.Cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe.config
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Debug\MRG.Controls.UI.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Debug\MRG.Controls.UI.pdb
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.ResolveComReference.cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.cardOperation_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.cardPay_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.cashPay_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.charityThanks_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.creditOperation_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.keyBoard_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.loading_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.login_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.lotteryCheck_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.massMediaSubscribe_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.mobileCommunicate_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.moneyTransfer_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.onlineGames_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.operationWebmoney_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.terminalMain_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.Properties.Resources.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.travolta.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.GenerateResource.Cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Work\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csprojResolveAssemblyReference.cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe.config
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.ResolveComReference.cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csprojResolveAssemblyReference.cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.cardOperation_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.cardPay_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.cashPay_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.charityThanks_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.creditOperation_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.keyBoard_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.loading_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.login_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.lotteryCheck_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.massMediaSubscribe_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.mobileCommunicate_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.moneyTransfer_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.onlineGames_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.operationWebmoney_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.terminalMain_form.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.travolta.resources
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.GenerateResource.Cache
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\bin\Debug\MRG.Controls.UI.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\bin\Debug\MRG.Controls.UI.pdb
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Self-ServiceTerminal\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.Properties.Resources.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe.config
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.ResolveComReference.cache
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.pdb
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\bin\Debug\MRG.Controls.UI.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\bin\Debug\MRG.Controls.UI.pdb
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csprojResolveAssemblyReference.cache
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.cardOperation_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.cardPay_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.cashPay_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.charityThanks_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.creditOperation_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.keyBoard_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.loading_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.login_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.lotteryCheck_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.massMediaSubscribe_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.mobileCommunicate_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.moneyTransfer_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.onlineGames_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.operationWebmoney_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.terminalMain_form.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.Properties.Resources.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self_ServiceTerminal.travolta.resources
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal — копия\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.GenerateResource.Cache
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\bin\Debug\Self-ServiceTerminal.exe.config
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.csproj.ResolveComReference.cache
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.exe
+C:\Users\Artemy\Desktop\Курсовая работа (full)\Self-Sevice Terminal\Self-ServiceTerminal\obj\Debug\Self-ServiceTerminal.pdb

@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{060E2A7B-CA27-4ADC-A5BF-E3AF4B58D4C1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Self_ServiceTerminal</RootNamespace>
+    <AssemblyName>Self-ServiceTerminal</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>wiese.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MRG.Controls.UI">
+      <HintPath>..\..\..\..\Downloads\MRGLoadingCirclesrc\LoadingCircle\MRG.WinForm.Test\bin\Debug\MRG.Controls.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cardOperation_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cardOperation_form.Designer.cs">
+      <DependentUpon>cardOperation_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CardOwner.cs" />
+    <Compile Include="cardPay_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cardPay_form.Designer.cs">
+      <DependentUpon>cardPay_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashPay_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashPay_form.Designer.cs">
+      <DependentUpon>cashPay_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="charityThanks_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="charityThanks_form.Designer.cs">
+      <DependentUpon>charityThanks_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="creditOperation_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="creditOperation_form.Designer.cs">
+      <DependentUpon>creditOperation_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="keyBoard_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="keyBoard_form.Designer.cs">
+      <DependentUpon>keyBoard_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loading_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loading_form.Designer.cs">
+      <DependentUpon>loading_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_form.Designer.cs">
+      <DependentUpon>login_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lottery_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lottery_form.Designer.cs">
+      <DependentUpon>lottery_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="massMediaSubscribe_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="massMediaSubscribe_form.Designer.cs">
+      <DependentUpon>massMediaSubscribe_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mobileCommunicate_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mobileCommunicate_form.Designer.cs">
+      <DependentUpon>mobileCommunicate_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="moneyTransfer_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="moneyTransfer_form.Designer.cs">
+      <DependentUpon>moneyTransfer_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="onlineGames_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="onlineGames_form.Designer.cs">
+      <DependentUpon>onlineGames_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="operationWebmoney_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="operationWebmoney_form.Designer.cs">
+      <DependentUpon>operationWebmoney_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="terminalMain_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="terminalMain_form.Designer.cs">
+      <DependentUpon>terminalMain_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="terminalFunctions.cs" />
+    <Compile Include="travolta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="travolta.Designer.cs">
+      <DependentUpon>travolta.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cardOperation_form.resx">
+      <DependentUpon>cardOperation_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cardPay_form.resx">
+      <DependentUpon>cardPay_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashPay_form.resx">
+      <DependentUpon>cashPay_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="charityThanks_form.resx">
+      <DependentUpon>charityThanks_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="creditOperation_form.resx">
+      <DependentUpon>creditOperation_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="keyBoard_form.resx">
+      <DependentUpon>keyBoard_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loading_form.resx">
+      <DependentUpon>loading_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_form.resx">
+      <DependentUpon>login_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lottery_form.resx">
+      <DependentUpon>lottery_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="massMediaSubscribe_form.resx">
+      <DependentUpon>massMediaSubscribe_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mobileCommunicate_form.resx">
+      <DependentUpon>mobileCommunicate_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="moneyTransfer_form.resx">
+      <DependentUpon>moneyTransfer_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="onlineGames_form.resx">
+      <DependentUpon>onlineGames_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="operationWebmoney_form.resx">
+      <DependentUpon>operationWebmoney_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="terminalMain_form.resx">
+      <DependentUpon>terminalMain_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="travolta.resx">
+      <DependentUpon>travolta.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VisaInfinite.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VisaGold_image.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="files\VisaGoldCard_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="files\VisaInfiniteCard_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="files\MaestroCard_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="files\НоваяВерстка2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="files\BackgroundActive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="files\Cash20k.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="files\Cash50k.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="files\Cash100k.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="files\Cash200k.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardActive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardNotActive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\а.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\б.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\в.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\г.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\д.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\е.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ж.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\з.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\и.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\й.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\к.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\л.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\м.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\н.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\о.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\п.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\р.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\с.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\т.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\у.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ф.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\х.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ц.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ч.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ш.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\щ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ъ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ы.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ь.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\э.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ю.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\я.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\del_keyboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ButtonLogin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backButton0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backButton1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acceptButton0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acceptButton1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonBack_aero0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonBack_aero1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonBack_aero01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\operationBackground_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aerobutton_RED_takeCardBack0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aerobutton_RED_takeCardBack1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hearthstone_121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hearthstone95.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Steam_121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam95.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warface_121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warface95.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WOT_121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wot95.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\games_final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\games_operation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\games_operation1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lottery_form0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lottery_form1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\LOSE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOSE.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WIN.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOSE1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\credits2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\credits1.2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balance_button0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balance_button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history_button0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history_button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="wiese.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
